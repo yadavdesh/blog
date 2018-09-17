@@ -24,3 +24,17 @@ a{
 a:visited{
   background-color: #f4ad42 !important;
 }
+
+
+.carousel{
+  position: relative;
+  margin-top: 0px !important;
+  width: 100% !important;
+}
+
+
+
+.carousel-caption {
+  position: absolute;
+  top: 15%;
+}
