@@ -1,0 +1,26 @@
+// Place all the styles related to the blog_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+#brand_logo{
+  width: 150px;
+  height: 50px;
+}
+
+.navbar-brand{
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+
+}
+
+.nav-item{
+  margin-right: 25PX;
+
+}
+
+a{
+  color: #fff !important;
+}
+
+a:visited{
+  background-color: #f4ad42 !important;
+}
